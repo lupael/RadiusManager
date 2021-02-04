@@ -1,8 +1,8 @@
 # Radius Manager
 
-Mitul Gadhiya | Prakash Gujarati
+Lupael
 
-(c) JAYNATH INFOTECH
+(c) iNternet For Education i4E
 
 # Overview
 
@@ -87,7 +87,7 @@ exit
 
 cd /var/www/html
 
-git clone -b "master" https://github.com/PrakashGujarati/RadiusManager.git 
+git clone -b "master" https://github.com/lupael/RadiusManager.git 
 
 chown www-data:www-data -R RadiusManager
 
